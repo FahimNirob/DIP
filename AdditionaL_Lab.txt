@@ -1,0 +1,4 @@
+1. Image sharpening (Point, edge and line detectiion)
+ - vertical line, horizontal line
+
+2. Histogram Equlization
